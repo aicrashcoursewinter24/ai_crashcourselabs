@@ -1,4 +1,4 @@
-AI_Crashcourselabs
+AI_Crashcourselabs2024
 ==============================
 
 Labs_on_crashcourse2024
